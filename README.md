@@ -5,3 +5,6 @@ While I am doing practice I will upload my repositories to GitHub.
 
 ![image](https://github.com/Umudvarr/freeCodeCapm-practice-projects/assets/126266744/a716e393-2d41-412e-9eb2-db3a0e5c5d6f)
 
+# freeCodeCapm-practice-projects2
+
+![image](https://github.com/Umudvarr/freeCodeCapm-practice-projects/assets/126266744/49ffd835-f55d-4c29-a54d-b30b19416e8a)
