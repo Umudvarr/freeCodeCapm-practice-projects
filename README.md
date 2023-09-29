@@ -26,6 +26,8 @@ While I am doing practice I will upload my repositories to GitHub.
 
 ![resim](https://github.com/Umudvarr/freeCodeCapm-practice-projects/assets/126266744/ec196898-f019-4ffc-b178-6f505c72ab41)
 
-# freeCodeCapm-practice-projects67
+# freeCodeCapm-practice-projects7
 
 ![resim](https://github.com/Umudvarr/freeCodeCapm-practice-projects/assets/126266744/36c426f0-642a-4132-8918-3f5eafa8c239)
+
+# freeCodeCapm-practice-projects8
