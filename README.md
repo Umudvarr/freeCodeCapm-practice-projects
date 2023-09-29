@@ -31,3 +31,5 @@ While I am doing practice I will upload my repositories to GitHub.
 ![resim](https://github.com/Umudvarr/freeCodeCapm-practice-projects/assets/126266744/36c426f0-642a-4132-8918-3f5eafa8c239)
 
 # freeCodeCapm-practice-projects8
+
+![resim](https://github.com/Umudvarr/freeCodeCapm-practice-projects/assets/126266744/3da0052c-3e6d-4f79-bb0e-9ebf1c5786b0)
